@@ -1,0 +1,5 @@
+1. Implement binary search algorithm
+Function that recieves list + number, and returns true\false
+
+Multiple tests functions for edge cases + assertions
+
