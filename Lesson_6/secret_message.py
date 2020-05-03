@@ -1,4 +1,6 @@
 def swap_specific_word(message,first_ind,last_ind):
+	# h e l l o
+	
 	num_of_swaps = (last_ind + 1 - first_ind) // 2
 	
 	for _ in range(num_of_swaps):
