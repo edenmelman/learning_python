@@ -31,3 +31,4 @@ class BoundedStack(Stack):
 
 class StackFullError(Exception):
 	pass
+
